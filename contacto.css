@@ -74,25 +74,26 @@ button:hover {
 
 p {
     color: #ccc;
-    font-size: 1em;
+    font-size: 1 em;
     line-height: 1.5;
 }
 .pdf-link {
     display: inline-block;
-    margin-top: 20px;
-    padding: 12px 25px;
+    margin-top: 20 px;
+    padding: 12 px 25 px;
     background-color: #e30613; 
     color: #ffffff;           
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 5 px;
     font-weight: bold;
     font-family: Arial, sans-serif;
     text-transform: uppercase;
-    transition: background-color 0.3s ease, transform 0.2s;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: background-color 0.3 s ease, transform 0.2 s;
+    box-shadow: 0 4 px 6 px rgba (0,0,0,0.2);
 }
 .pdf-link:hover {
     background-color: #000000; 
     color: #ffffff;
-    transform: scale(1.05);    
+    transform: scale (1.05);    
 }
+
